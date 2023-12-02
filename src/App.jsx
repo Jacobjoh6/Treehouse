@@ -3,7 +3,7 @@ import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import './App.css'
 
 import Home from './views/home/home'
-import Checkout from './views/Rooms/Rooms'
+import Rooms from './views/Rooms/Rooms'
 import Video from './views/video/Video'
 
 const router =  createBrowserRouter([
@@ -13,7 +13,7 @@ const router =  createBrowserRouter([
   },
   {
     path:'/rooms',
-    element: <Checkout />
+    element: <Rooms />
   },
   {
     path:'/video',

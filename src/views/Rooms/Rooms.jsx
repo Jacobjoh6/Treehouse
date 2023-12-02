@@ -2,7 +2,7 @@ import './rooms.css'
 import Footer from "../../components/Footer/Footer"
 import Header from "../../components/Header/Header"
 
-function Checkout() {
+function Rooms() {
 
   function myAlert() {
     alert("Sorry, it is not yet poossible to book a room :/")
@@ -50,4 +50,4 @@ function Checkout() {
   )
 }
   
-  export default Checkout
+  export default Rooms

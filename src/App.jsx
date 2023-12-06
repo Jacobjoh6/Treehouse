@@ -1,7 +1,7 @@
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import './App.css'
 
-import Home from './views/home/home'
+import Home from './views/home/Home'
 import Rooms from './views/Rooms/Rooms'
 import Video from './views/video/Video'
 

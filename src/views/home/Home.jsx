@@ -16,7 +16,7 @@ function Home() {
             <h1 className='home-h1'>Escape reality</h1>
             
             <div className='img-div'>
-                <img src="public/08-night.jpg" className='homepage-img' alt="homepage-img" />
+                <img src="public/08-night.jpg" className='homepage-img' alt="A livingroom at noon overlooking a fireplace and a lake" />
             </div>
             <h2 className='home-h2'>Go rural</h2>
             <section className='home-section'>

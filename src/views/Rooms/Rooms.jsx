@@ -17,7 +17,7 @@ function Rooms() {
         <section className="room-container">
           <section className="room">
             <div className="img-container">
-              <img src="public/03-day.jpg" className="room-img" alt="room1-bedroom" />
+              <img src="public/03-day.jpg" className="room-img" alt="a view from a white bed overlooking a lake in the morning" />
             </div>
             <div className="room-text-container">
               <p className='room-text'>Lorem ipsum dolor sit amet conullam. Nobis, reprehenderit cupiditate rem consequuntur nisi velit.</p>
@@ -26,7 +26,7 @@ function Rooms() {
           </section>
           <section className="room">
             <div className="img-container">
-              <img src="public/08-night.jpg" className="room-img" alt="room2-living-room" />
+              <img src="public/08-night.jpg" className="room-img" alt="A livingroom at noon overlooking a fireplace and a lake" />
             </div>
             <div className="room-text-container">
               <p className='room-text'>Lorem ipsum dolor sit amet conullam. Nobis, reprehenderit cupiditate rem consequuntur nisi velit.</p>
@@ -35,7 +35,7 @@ function Rooms() {
           </section>
           <section className="room">
             <div className="img-container">
-              <img src="public/09-night.jpg" className="room-img" alt="room3-deck" />
+              <img src="public/09-night.jpg" className="room-img" alt="A outside view of a wooden deck with furniture overlooking a lake at sunrise" />
             </div>
             <div className="room-text-container">
               <p className='room-text'>Lorem ipsum dolor sit amet conullam. Nobis, reprehenderit cupiditate rem consequuntur nisi velit.</p>
